@@ -30,7 +30,7 @@ jobs:
         run: echo Hello, world!
         
       - name: Sleep a bit
-        run: sleep 30s
+        run: sleep 300s
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
