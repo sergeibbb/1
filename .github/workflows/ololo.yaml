@@ -10,6 +10,7 @@ on:
 
 jobs:
   one-job:
+    environment: environment-A
     name: One Job
     runs-on: ubuntu-latest
     steps:
