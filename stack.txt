@@ -1,0 +1,1 @@
+content from master — conflicts with stack layer s1
